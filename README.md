@@ -1,6 +1,5 @@
  # Sports Center Website
 
-[Live Demo](https://6702c8d38d7bd98daaa3c0bc--superlative-trifle-ebb614.netlify.app/)
 
 ## Project Overview
 This project is a website for a sports center where users can view events, register for activities, and manage their membership information. It aims to provide convenience for sports enthusiasts with its user-friendly interface and functional features.
@@ -13,6 +12,7 @@ This project is a website for a sports center where users can view events, regis
 - Contact form
 
 ## Technologies
+- React
 - HTML
 - CSS
 - JavaScript
@@ -29,4 +29,4 @@ This project is a website for a sports center where users can view events, regis
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/emrecimen20/Sports_Center.git
+   git clone https://github.com/emrecimen20/Sport_Center_React.git
