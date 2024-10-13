@@ -17,15 +17,6 @@ This project is a website for a sports center where users can view events, regis
 - CSS
 - JavaScript
 
-## Screen Shots
-
-![Sports Center](ScreenShots/ss1.png)
-![Sports Center](ScreenShots/ss2.png)
-![Sports Center](ScreenShots/ss3.png)
-![Sports Center](ScreenShots/ss4.png)
-![Sports Center](ScreenShots/ss5.png)
-![Sports Center](ScreenShots/ss6.png)
-
 ## Installation
 1. Clone this repository:
    ```bash
